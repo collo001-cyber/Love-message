@@ -1,0 +1,34 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>For Gakii ❤️</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f9f0f4;
+      color: #e91e63;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      font-size: 60px;
+      color: #e91e63;
+      margin-bottom: 20px;
+    }
+    p {
+      font-size: 24px;
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+  <h1>GAKII ❤️</h1>
+  <p>She is 19 years old</p>
+  <p>She is beautiful, smart, and the light of my life 💖</p>
+  <p>I’m so lucky to have her by my side every day! 🌟</p>
+</body>
+</html>
+```
